@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://juan-huanaco-quispe.vercel.app/sitemap.xml
+Sitemap: https://guanaco20.github.io/UCSP_CS/sitemap.xml
